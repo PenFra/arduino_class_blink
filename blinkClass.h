@@ -15,8 +15,8 @@ class blinkClass
 
 
   private:
-    unsigned int pinNumber;
-    unsigned long delayPeriod;
+    unsigned int pinNumber;         /* Numero del pin da inizializzare come uscita */
+    unsigned long delayPeriod;      /* Tempo di ritardo del lampeggio */
 
 
 
