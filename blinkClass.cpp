@@ -14,7 +14,7 @@ blinkClass::blinkClass(unsigned int pN, unsigned long period)
 /*                      Metodi pubblici                           */
 /* ****************************************************************/
 
-/* Metodo iniziale assegna il pin di output */
+/* Metodo iniziale assegna il pin come output */
 void blinkClass::initFunction()
 {
 
